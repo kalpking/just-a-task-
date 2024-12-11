@@ -1,0 +1,65 @@
+/* Switch Mobile=No, Dark=Default */
+
+width: 1440px;
+height: 958px;
+
+/* White */
+background: #FFFFFF;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+Share
+Share anything you’re working on.
+api.check.ts
+new
+ApiCheck('hello-api-1', {
+  name:
+'Hello API',
+  activated:
+true,
+Campsite has been instrumental in keeping designers aware of
+each others' work-in-progress in a way that was previously
+slowing us down. It's also one of the only channels where.
+  request: {
+    method:
+'GET',
+    url:
+'https://api.checklyhq.com/public-stats',
+    assertions: [
+AssertionBuilder.statusCode().equals(200)
+Coded
+100% Secure
+    ],
+  }
+})
+See how it works
+
+
+Share
+Share anything you’re working on.
+api.check.ts
+new
+ApiCheck('hello-api-1', {
+  name:
+'Hello API',
+  activated:
+true,
+Campsite has been instrumental in keeping designers aware of
+each others' work-in-progress in a way that was previously
+slowing us down. It's also one of the only channels where.
+  request: {
+    method:
+'GET',
+    url:
+'https://api.checklyhq.com/public-stats',
+    assertions: [
+AssertionBuilder.statusCode().equals(200)
+Coded
+100% Secure
+    ],
+  }
+})
+See how it works
